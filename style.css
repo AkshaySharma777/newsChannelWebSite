@@ -1,0 +1,41 @@
+header{
+    background-color: lightgoldenrodyellow;
+    
+   margin-left: 10%;
+   margin-right: 10%;
+}
+header>nav>ul{
+ 
+    float: right;
+    
+}
+header>nav>ul>li{
+    display:inline-block;
+    padding: 20px;
+    
+}
+header>nav>img{
+   width: 10%;
+    height: 100px;
+} 
+header>nav>ul>li>a{
+    text-decoration: none;
+    
+   
+}
+header>nav>ul>li>a:hover{
+    background-color:lightyellow;
+    color:red;
+}
+                                            
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    bottom: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: fixed;
+    width: 50%;
+  }
