@@ -28,15 +28,64 @@ header>nav>ul>li>a:hover{
     color:red;
 }
                                             
-footer {
+#footer {
     text-align: center;
-    padding: 3px;
+    padding: 2px;
     background-color: DarkSalmon;
     color: white;
     bottom: 0;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 0%;
     position: fixed;
-    width: 50%;
+    width: auto;
   }
-  
+  #date{
+    float: right;
+    margin-right: 10%;
+  }
+  #welcome{
+    margin-left: 10%;
+  }
+  #livecnn{
+    margin-left: 10%;
+  }
+  #cricketvideo{
+    margin-left: 10px;
+    caption-side: bottom;
+  }
+    #cricketnews{
+        margin-left: 10%;
+        margin-top: 20px;
+    }
+    #sportsheader{
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: goldenrod;
+        margin-top: 0%;
+    }
+    #travelheader{
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: goldenrod;
+        margin-top: 0%;
+    }
+    #newsheader{
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: goldenrod;
+        margin-top: 0%;
+    }
+    #technologyheader{
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: goldenrod;
+        margin-top: 0%;
+    }
+    #weatherheader{
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: goldenrod;
+        margin-top: 0%;
+    }
+        
