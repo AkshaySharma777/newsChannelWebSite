@@ -4,7 +4,7 @@ header{
    margin-left: 10%;
    margin-right: 10%;
 }
-header>nav>ul{
+header>nav>ul,#travBangalore,#travMangalore,#trump,#modi,#cricket,#football{
  
     float: right;
     
@@ -47,13 +47,12 @@ header>nav>ul>li>a:hover{
   #welcome{
     margin-left: 10%;
   }
-  #livecnn{
+  .margin{
     margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 40px;
   }
-  #cricketvideo{
-    margin-left: 10px;
-    caption-side: bottom;
-  }
+  
     #cricketnews{
         margin-left: 10%;
         margin-top: 20px;
@@ -88,4 +87,19 @@ header>nav>ul>li>a:hover{
         background-color: goldenrod;
         margin-top: 0%;
     }
+    .newsmargin{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #travelHeadline2{
+     background-color: aqua;
+     color: brown;
+     height: 40px;
+     padding-top: 14px;
+     font-size: x-large;
+      /* doubt */
+        }
+        #cricket,#modi{
+            float: left;
+        }
         
