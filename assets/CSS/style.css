@@ -103,3 +103,29 @@ header>nav>ul>li>a:hover{
             float: left;
         }
         
+    /* News headline */
+    #newsheadlines{
+        background-color: aqua;
+        color: brown;
+        height: 40px;
+        padding-top: 14px;
+        font-size: x-large;
+    }
+
+    /* Sports headline */
+    #sportsheadline{
+        background-color: aqua;
+        color: brown;
+        height: 40px;
+        padding-top: 14px;
+        font-size: x-large;
+    }
+
+     /* Technology headline */
+     #technologyheadline{
+        background-color: aqua;
+        color: brown;
+        height: 40px;
+        padding-top: 14px;
+        font-size: x-large;
+    }
