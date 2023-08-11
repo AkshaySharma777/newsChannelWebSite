@@ -27,18 +27,16 @@ header>nav>ul>li>a:hover{
     background-color:lightyellow;
     color:red;
 }
-                                            
-#footer {
-    text-align: center;
-    padding: 2px;
-    background-color: DarkSalmon;
-    color: white;
-    bottom: 0;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 0%;
+footer{
     position: fixed;
-    width: auto;
+    bottom: 0%;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background: grey;
+    text-align: center;
+    margin-left: -1%;
   }
   #date{
     float: right;
